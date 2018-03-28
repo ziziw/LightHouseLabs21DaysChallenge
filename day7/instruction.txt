@@ -1,0 +1,4 @@
+## Challenge #7
+Now that you can return the contents of the cells of a row, we also need to be able to return the cells of a column.
+
+Write a function called lightColumn() that takes in the letter of the column from the grid, and returns an array that is the contents of that grid column. (Ex: lightColumn('C'); would return ["", "", "", "", "", "", "", "~", "", ""])

@@ -1,0 +1,4 @@
+## Challenge #6
+Your next job is to write a loop so that your lighthouse can sweep a whole row of cells.
+
+To do this, write a function named lightRow() that takes in the number of the row and returns the contents of the cell. (Example: lightRow(2); would return ["", "", "", "", "~", "", "", "", "", ""])
