@@ -1,0 +1,4 @@
+## Challenge #9
+The other lighthouse operators are impressed that you figured out how to find rocks and currents, but they also need a method to identify safe cells. A cell is safe if there is no rock or strong current in that cell.
+
+Write a function called isSafe() which will take in a coordinate in the form of 'H2' and return a true or a false boolean. The isSafe() function should check to see if there is a rock or current or not in that cell. (Example: isSafe('D7'); would return true)
