@@ -1,0 +1,2 @@
+## Challenge #12
+Here is an opportunity to prove how powerful your lighthouse-powering skills are! Look at the code for Challenge #10, and write a function called firstRock() which will return the coordinates of the first rock in your grid.
