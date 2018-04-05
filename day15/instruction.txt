@@ -1,0 +1,8 @@
+## Challenge #15
+HELP! A ship is in trouble and is firing off a distress beacon, with their coordinates. You need to look at all the cells around the ship and decide which cell is the best one for them to go to.
+
+Rules:
+
+Target cell should not be dangerous.
+Target cell should be 1 cell away in any direction.
+Write a function called distressBeacon() that takes a coordinate in the format 'H2' and returns a different coordinate in the same format. (Example: distressBeacon('E8') should return 'F7'.)
