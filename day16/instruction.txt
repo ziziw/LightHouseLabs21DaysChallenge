@@ -1,0 +1,2 @@
+## Challenge #16
+The only constant is change around here! The diving society has sunk a wreck in your grid to give divers a great place to scuba and swim around. Add a rock to your grid in cell J9.
