@@ -1,0 +1,2 @@
+## Challenge #18
+Apparently, HQ can't count. They want you to re-do your report, but this time send back three values. The first should be the number of open water cells, the second should be the number of rock cells, and the third should be the number of strong current cells. This is why we have software!
