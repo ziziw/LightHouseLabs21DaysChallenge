@@ -1,0 +1,4 @@
+## Challenge #17
+It's time for monthly reporting to Lighthouse HQ. Your supervisor calls you and tells you that they need a report of what percentage of your grid is rocks and what percentage has strong currents. This data should be sent as an array of two values, in that order.
+
+Write a function percentageReport() that returns the right percentages. (Example: calling percentageReport() should return the following array: [10, 7])
