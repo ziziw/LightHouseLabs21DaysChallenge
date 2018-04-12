@@ -1,0 +1,4 @@
+## Challenge #20
+Ship captains have heard of your prowess and want to know the length of their routes through your grid.
+
+Write a function called calcDistance() which will take two coordinates in the form of 'A3' and calculate the distance between the two points. (Example: calling calcDistance('A1', 'C3') should return 2.83
