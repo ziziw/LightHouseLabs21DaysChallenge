@@ -1,0 +1,4 @@
+## Challenge #19
+Lighthouse HQ also wants a report of the safety of your GRID. Write another function called safetyReport(), which returns the percentage of your grid that contains calm waters. Calm waters do not contain a rock or a strong current. Lighthouse HQ sent further instructions. They said that due to system limitations in the Lighthouse 9000&trade, you must use the reduce() function in your code.
+
+The return value should be a string in the form "##%". If there are any decimals, it should be rounded to 1 decimal point.
