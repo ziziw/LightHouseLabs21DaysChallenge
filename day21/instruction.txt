@@ -1,0 +1,12 @@
+## Challenge #21
+This is it, the last challenge! Is that inspirational music in the background?
+
+You have worked hard to get to this point and now you are about to be rewarded. First, there’s the satisfaction of coding for 21 days in a row (yay!). But, once you finish the 21-Day Coding Challenge you will be entered to win one of many great prizes including: a Macbook Pro, a Sphero, and a Rasberry Pi.
+
+Given that you can do all sorts of fancy analysis on your grid, we're going to give you the final challenge for your Lighthouse9000™ system. Ship captains are going to send you a series of cells that they want to travel through, not just their start and end cells. You need to let them know if they should use that route or not.
+
+Write a function evaluateRoute() which will take an array of cells in the form: ["A1", "B2", "C3", "D4"] (there could be any number of cells), and return a boolean true or false according to the following rules:
+
+If any cells have rocks, it should return false.
+If more than two cells have strong currents, it should return false.
+Otherwise, it should return true.
